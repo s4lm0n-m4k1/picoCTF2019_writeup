@@ -15,10 +15,10 @@ Final Score: **9100**
 **Solved**:
 * 2   Binary Exploitation  </br>
 * 8   Cryptography </br>
-* 8   Forensics | 8  </br>
-* 16  General Skills | 16  </br>
-* 6   Reverse Engineering | 6  </br>
-* 12  Web Exploitation | 12  </br>
+* 8   Forensics  </br>
+* 16  General Skills  </br>
+* 6   Reverse Engineering  </br>
+* 12  Web Exploitation </br>
 
 **Total**: Solved 52 Problems
 
