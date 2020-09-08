@@ -4,7 +4,7 @@ picoCTFサイバーセキュリティコンテストの問題自分がどのよ�
 
 ## Note:
 I am no practitioner of cybersecurity related field. Just an enthusiast that would like to be professional someday. </br>
-私はサイバーセキュリティ関連分野の実務家ではありません。</br> いつかはプロになりたいと思っているただの愛好家です。</br>
+私はサイバーセキュリティ関連分野のエンジニアではありません。</br> いつかはプロになりたいと思っているただの愛好家です。</br>
 also... this is my first ever public repository... </br>
 
 ## Pico Profile (as of 09-09-2020)
