@@ -28,6 +28,6 @@ Category | Solved | Explanation Made |
 Binary Exploitation  | 2  | 0 |
 Cryptography |  8     | 0 |
 Forensics |  8     | 0 |
-General Skills |  16     | 0 |
+General Skills |  16     | 4 |
 Reverse Engineering |  6     | 0 |
 Web Exploitation |  12     | 0 |
