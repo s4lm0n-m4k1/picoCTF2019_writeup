@@ -22,3 +22,12 @@ Final Score: 9100
 
 **Total**: Solved 52 Problems
 
+### Repository Status
+Category | Solved | Explanation Made |
+:--- | :---:  |  :---:           |
+Binary Exploitation  | 2  | 0 |
+Cryptography |  8     | 0 |
+Forensics |  8     | 0 |
+General Skills |  16     | 0 |
+Reverse Engineering |  6     | 0 |
+Web Exploitation |  12     | 0 |
