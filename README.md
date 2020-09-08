@@ -10,7 +10,7 @@ also... this is my first ever public repository... </br>
 ## Pico Profile (as of 09-09-2020)
 I'm working under username **g4nb4r0u**
 
-Final Score: 9100
+Final Score: **9100
 
 **Solved**:
 * 2   Binary Exploitation  </br>
