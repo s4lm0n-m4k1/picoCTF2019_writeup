@@ -6,6 +6,6 @@ General Skills
 ## Solution 
 Same as the previous problem, I get the hexadecimal value of 0x3D -> 3D and convert it to decimal using online services.</br>
 前の問題とのやり方と同じで、十六進数の値を取って 0x3D -> 3D、そのままオンラインサービスを使って１０進数に変えました。
-> Reference: [RapitTables](https://www.rapidtables.com/convert/number/hex-to-decimal.html) </br>
+> Reference: [RapidTables](https://www.rapidtables.com/convert/number/hex-to-decimal.html) </br>
 ## Flag
 `picoCTF{61}`
