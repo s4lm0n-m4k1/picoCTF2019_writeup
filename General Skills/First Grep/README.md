@@ -2,10 +2,10 @@
 ## Category
 General Skills
 ## Problem 
-> Can you find the flag in `file`? This would be really tedious to look through manually, something tells me there is a better way. You can also find the file in `/problems/first-grep_0_93be1631acf1a93b98cdcc3e7b9fdc52` on the shell server.
+> Can you find the flag in [file](https://github.com/s4lm0n-m4k1/CTF_Writeup_pico2019/blob/master/General%20Skills/First%20Grep/file)? This would be really tedious to look through manually, something tells me there is a better way. You can also find the file in `/problems/first-grep_0_93be1631acf1a93b98cdcc3e7b9fdc52` on the shell server.
 ## Solution 
-First I navigate to the given directory and check the file permission of `file`.
-与えられたディレクトリの中にある`file`の権限を確認しました。
+First I navigate to the given directory and check the file permission of [file](https://github.com/s4lm0n-m4k1/CTF_Writeup_pico2019/blob/master/General%20Skills/First%20Grep/file). \
+与えられたディレクトリの中にある[file](https://github.com/s4lm0n-m4k1/CTF_Writeup_pico2019/blob/master/General%20Skills/First%20Grep/file)の権限を確認しました。
 ```shell
 $ cd /problems/first-grep_0_93be1631acf1a93b98cdcc3e7b9fdc52
 $ ls -l file
