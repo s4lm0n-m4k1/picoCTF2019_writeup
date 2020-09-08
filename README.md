@@ -2,9 +2,11 @@
 Solutions and writeups on how I approach and solved the problems for the picoCTF Cybersecurity Competition.</br>
 picoCTFサイバーセキュリティコンテストの問題を自分がどのように解いているかの解答と解説。</br>
 
+I also included japanese explanation as I am currently practicing my japanese skill \
+日本語を勉強しているので、picoCTF2019を日本語で説明を作りました。
 ## Note:
 I am no practitioner of cybersecurity related field. Just an enthusiast that would like to be professional someday. </br>
-私はサイバーセキュリティ関連分野のエンジニアではありません。</br> いつかはプロになりたいと思っているただの愛好家です。</br>
+私はサイバーセキュリティ関連分野のエンジニアではありません。</br> いつかはプロになりたいと思っているただの愛好家です。</br>　</br>　
 also... this is my first ever public repository... </br>
 
 ## Pico Profile (as of 09-09-2020)
