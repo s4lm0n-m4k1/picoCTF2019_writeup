@@ -24,6 +24,8 @@ Final Score: **9100**
 
 **Total**: Solved 52 Problems
 
+### Repository Status (09-10-2020)
+
 <table>
   <tr>
     <td><b><a href = https://github.com/s4lm0n-m4k1/CTF_Writeup_pico2019/tree/master/Binary%20Exploitation>Binary Exploitation</a></b></td>
@@ -172,8 +174,6 @@ Final Score: **9100**
   </tr>
 </table>
 
-
-### Repository Status (09-10-2020)
 Category | Solved | Explanation Made |
 :--- | :---:  |  :---:           |
 Binary Exploitation  | 2  | 0 |
