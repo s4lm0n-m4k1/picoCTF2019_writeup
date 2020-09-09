@@ -24,16 +24,6 @@ Final Score: **9100**
 
 **Total**: Solved 52 Problems
 
-### Repository Status (09-10-2020)
-Category | Solved | Explanation Made |
-:--- | :---:  |  :---:           |
-Binary Exploitation  | 2  | 0 |
-Cryptography |  8     | 4 |
-Forensics |  8     | 0 |
-General Skills |  16     | 16 |
-Reverse Engineering |  6     | 0 |
-Web Exploitation |  12     | 0 |
-
 <table>
   <tr>
     <td><b><a href = https://github.com/s4lm0n-m4k1/CTF_Writeup_pico2019/tree/master/Binary%20Exploitation>Binary Exploitation</a></b></td>
@@ -181,3 +171,15 @@ Web Exploitation |  12     | 0 |
     <td td colspan= "6"><i>no link means no explantion yet</i></td>
   </tr>
 </table>
+
+
+### Repository Status (09-10-2020)
+Category | Solved | Explanation Made |
+:--- | :---:  |  :---:           |
+Binary Exploitation  | 2  | 0 |
+Cryptography |  8     | 4 |
+Forensics |  8     | 0 |
+General Skills |  16     | 16 |
+Reverse Engineering |  6     | 0 |
+Web Exploitation |  12     | 0 |
+
