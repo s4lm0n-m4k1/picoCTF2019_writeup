@@ -13,7 +13,7 @@ I suspected that this one is diplaying a flag format after seeing the curly brac
 16 9 3 15 3 20 6 {　20 8 5 14 21 13 2 5 18 19 13 1 19 15 14 }
 ```
 Given the hint and previous answers, I guess that the first few part `16 9 3 15 3 20 6 {` is `PICOCTF{`\
-ヒントに前の課題の答え方を参考にして`16 9 3 15 3 20 6 {`これは`PICOCTF{`だと考えました。\
+ヒントと前の課題の答え方を参考にして`16 9 3 15 3 20 6 {`これは`PICOCTF{`だと考えました。\
 <br>
 Given the hypothesis, it seems like the number states the nth alphabet. \
 仮説を考えると、数字はアルファベットのn番目を示しているように思えます。 \
