@@ -2,7 +2,7 @@
 ## Category
 Reverse Engineering 
 ## Problem 
-> This vault uses some complicated arrays! I hope you can make sense of it, special agent. The source code for this vault is here: [VaultDoor1.java](https://github.com/s4lm0n-m4k1/picoCTF2019_writeup/blob/master/Reverse%20Engineering/vault-door-3/VaultDoor3.java)
+> This vault uses some complicated arrays! I hope you can make sense of it, special agent. The source code for this vault is here: [VaultDoor1.java](https://github.com/s4lm0n-m4k1/picoCTF2019_writeup/blob/master/Reverse%20Engineering/vault-door-1/VaultDoor1.java)
 ## Solution 
 ```java
 import java.util.*;
