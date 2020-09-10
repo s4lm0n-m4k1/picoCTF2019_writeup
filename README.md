@@ -45,7 +45,7 @@ Final Score: **9100**
 
   </tr>
   <tr>
-    <td>practice-run-1</td>
+    <td><a href = https://github.com/s4lm0n-m4k1/picoCTF2019_writeup/tree/master/Binary%20Exploitation/practice-run-1>practice-run-1</td>
     <td><a href=https://github.com/s4lm0n-m4k1/CTF_Writeup_pico2019/tree/master/Cryptography/13> 13 </td>
     <td> unzip </td>
     <td><a href = https://github.com/s4lm0n-m4k1/CTF_Writeup_pico2019/tree/master/General%20Skills/Lets%20Warm%20Up> Lets Warm Up  </td>
@@ -176,7 +176,7 @@ Final Score: **9100**
 
 Category | Solved | Explanation Made |
 :--- | :---:  |  :---:           |
-Binary Exploitation  | 2  | 0 |
+Binary Exploitation  | 2  | 1 |
 Cryptography |  8     | 4 |
 Forensics |  8     | 0 |
 General Skills |  16     | 16 |
