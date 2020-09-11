@@ -40,7 +40,7 @@ Final Score: **9100**
     <td><a href =https://github.com/s4lm0n-m4k1/CTF_Writeup_pico2019/tree/master/Cryptography/The%20Numbers>The Numbers </a></td>
     <td> Glory of the Garden </td>
     <td><a href = https://github.com/s4lm0n-m4k1/CTF_Writeup_pico2019/tree/master/General%20Skills/2Warm> 2Warm </td>
-    <td> vault-door-training </td>
+    <td> <a href = https://github.com/s4lm0n-m4k1/picoCTF2019_writeup/tree/master/Reverse%20Engineering/vault-door-training>  vault-door-training </td>
     <td> Insp3ct0r </td>
 
   </tr>
@@ -49,7 +49,7 @@ Final Score: **9100**
     <td><a href=https://github.com/s4lm0n-m4k1/CTF_Writeup_pico2019/tree/master/Cryptography/13> 13 </td>
     <td> unzip </td>
     <td><a href = https://github.com/s4lm0n-m4k1/CTF_Writeup_pico2019/tree/master/General%20Skills/Lets%20Warm%20Up> Lets Warm Up  </td>
-    <td> vault-door-1  </td>
+    <td> <a href = https://github.com/s4lm0n-m4k1/picoCTF2019_writeup/tree/master/Reverse%20Engineering/vault-door-1> vault-door-1  </td>
     <td> dont-use-client-side </td>
   </tr>
   <tr>
@@ -57,7 +57,7 @@ Final Score: **9100**
     <td> Easy1 </td>
     <td> So Meta </td>
     <td><a href=https://github.com/s4lm0n-m4k1/CTF_Writeup_pico2019/tree/master/General%20Skills/Warmed%20Up> Warmed Up </td>
-    <td> vault-door-3 </td>
+    <td> <a href = https://github.com/s4lm0n-m4k1/picoCTF2019_writeup/tree/master/Reverse%20Engineering/vault-door-3> vault-door-3 </td>
     <td> logon </td>
   </tr>
     <tr>
@@ -65,7 +65,7 @@ Final Score: **9100**
     <td><a href = https://github.com/s4lm0n-m4k1/CTF_Writeup_pico2019/tree/master/Cryptography/caesar> caesar </td>
     <td> What Lies Within </td>
     <td><a href = https://github.com/s4lm0n-m4k1/CTF_Writeup_pico2019/tree/master/General%20Skills/Bases> Bases </td>
-    <td> vault-door-4  </td>
+    <td> <a href = https://github.com/s4lm0n-m4k1/picoCTF2019_writeup/tree/master/Reverse%20Engineering/vault-door-4> vault-door-4  </td>
     <td> where are the robots </td>
   </tr>
     <tr>
@@ -73,7 +73,7 @@ Final Score: **9100**
     <td><a href=https://github.com/s4lm0n-m4k1/CTF_Writeup_pico2019/tree/master/Cryptography/Flags> Flags </td>
     <td> extensions </td>
     <td><a href = https://github.com/s4lm0n-m4k1/CTF_Writeup_pico2019/tree/master/General%20Skills/First%20Grep> First Grep </td>
-    <td> vault-door-5 </td>
+    <td> <a href = https://github.com/s4lm0n-m4k1/picoCTF2019_writeup/tree/master/Reverse%20Engineering/vault-door-5> vault-door-5 </td>
     <td> Client-side-again </td>
   </tr>
     <tr>
@@ -81,7 +81,7 @@ Final Score: **9100**
     <td> Mr-Worldwide </td>
     <td> shark on wire 1 </td>
     <td><a href=https://github.com/s4lm0n-m4k1/CTF_Writeup_pico2019/tree/master/General%20Skills/Resources> Resources </td>
-    <td> vault-door-6  </td>
+    <td><a href = https://github.com/s4lm0n-m4k1/picoCTF2019_writeup/tree/master/Reverse%20Engineering/vault-door-6> vault-door-6  </td>
     <td> Open-to-admins </td>
   </tr>
     <tr>
@@ -180,6 +180,6 @@ Binary Exploitation  | 2  | 1 |
 Cryptography |  8     | 4 |
 Forensics |  8     | 0 |
 General Skills |  16     | 16 |
-Reverse Engineering |  6     | 0 |
+Reverse Engineering |  6     | 6 |
 Web Exploitation |  12     | 0 |
 
