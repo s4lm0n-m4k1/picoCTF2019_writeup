@@ -89,8 +89,8 @@ if (((passBytes[i] ^ 0x55) - myBytes[i]) != 0) {
                 return false;
             }
 ```
-With the set goal, I created a program that performs our hypothesis, and at the same time outputs the result in binary number. \
-設定した目標をもとに、仮説を実行し、同時に結果を2進数で出力するプログラムを作成しました。
+With the set goal, I created a [program](https://github.com/s4lm0n-m4k1/picoCTF2019_writeup/blob/master/Reverse%20Engineering/vault-door-6/vd6.py) that performs our hypothesis, and at the same time outputs the result in binary number. \
+設定した目標をもとに、仮説を実行し、同時に結果を2進数で出力する[プログラム](https://github.com/s4lm0n-m4k1/picoCTF2019_writeup/blob/master/Reverse%20Engineering/vault-door-6/vd6.py)を作成しました。
 ```python
 output = []
 myBytes = [
