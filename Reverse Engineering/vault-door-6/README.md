@@ -1,4 +1,4 @@
-# vault-door-4 - Points: 250
+# vault-door-6 - Points: 250
 ## Category
 Reverse Engineering 
 ## Problem 
